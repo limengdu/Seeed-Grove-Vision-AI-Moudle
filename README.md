@@ -1,2 +1,1 @@
-# Seeed-Grove-Vision-AI-Moudle
- 
+This is the example for Grove AI Camera.
